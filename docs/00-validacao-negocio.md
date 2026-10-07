@@ -12,7 +12,7 @@
 | :--- | :--- |
 | **Nome do Sistema** | Sistema de Agendamento de Exames |
 | **Área Solicitante / Cliente** | Central de Marcação de Exames |
-| **Instância Superior Competente** | [Gerência à qual a área proponente esteja subordinada ou Superintendência] |
+| **Instância Superior Competente** | SETISD |
 | **Líder Técnico (SETISD)** | Tiago Ferrão |
 | **Objetivo Estratégico HU Brasil** | Garantir eficiência, rastreabilidade e padronização do processo de agendamento de exames no HC-UFPE |
 
