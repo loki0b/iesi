@@ -1,9 +1,9 @@
 # Documento de Visão
 
 ## 1. Problema e Oportunidade
-* **O Problema**: [Descreva a dor atual do hospital].
-* **Impacto**: A falta de uma política de preechimento de vagas, os métodos desorganizados em que as planilhas são preenchidas e gerenciadas, o tempo entre um paciente fazer uma solicitação e sua solicitação ser devidamente preenchida [da para elaborar mais], tudo isso corrobora com os principais problemas que a **Central de Marcação de Exames**, fazendo com que os processos sejam [...]
-* **Solução Proposta**: [Resumo do sistema].
+* **O Problema**: Fluxo de coleta e armazenamento das informações do paciente desorganizado, ineficiente e impreciso.
+* **Impacto**: A falta de uma política de preechimento de vagas, os métodos desorganizados em que as planilhas são preenchidas e gerenciadas, o tempo entre um paciente fazer uma solicitação e sua solicitação ser devidamente preenchida, tudo isso corrobora com os principais problemas da **Central de Marcação de Exames**, fazendo com que os processos sejam lentos e desnecessariamente complexos.
+* **Solução Proposta**: Sistema integrado ao AGHU com formulário com verificação automática e preenchimento semi-automatizado para o paciente e com dashboard de solicitações dos pacientes legível e ordenado por prioridade.
 
 ## 2. Partes Interessadas (Stakeholders)
 - Recepcionistas
